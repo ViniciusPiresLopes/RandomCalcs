@@ -1,0 +1,25 @@
+HELP
+
+PT-BR:
+
+-> Para que serve?
+    O programa RandomC gera contas aleatórias para o usuário acerta-las.
+
+-> Como executar o programa?
+    Para executar o programa deve rodar o arquivo "run.py".
+    Uma das maneiras é abrindo o terminal, entrar no diretório RandomC; 
+    e depois dar o comando "python3.7 run.py"
+    (python >= 3.7).
+
+HELP
+
+EN:
+
+-> What does this program does?
+    The program RandomC generates random calculus for the user hit them.
+
+-> How to run this program?
+    For run the program you must run the file "run.py".
+    One of the ways is open the terminal on the directory RandomC;
+    and after run the command "python3.7 run.py"
+    (python >= 3.7).

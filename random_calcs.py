@@ -54,8 +54,3 @@ class App:
             self.show()
             self.input()
             self.logic()
-
-
-if __name__ == "__main__":
-    app = App()
-    app.run()
